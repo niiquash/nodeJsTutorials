@@ -10,3 +10,15 @@
 2024/02/09	19:40:12	134df859-a253-42fa-8d72-e270c913f3ee	/new-page	GET
 2024/02/09	19:40:12	d204556d-eb69-4be2-afbb-c1ffdeab018f	/img/img1.jpg	GET
 2024/02/09	19:40:12	daaaa510-f7a0-4873-948f-afc901cfcd2e	/css/style.css	GET
+2024/02/10	14:12:31	edb723f3-63b7-46c8-9392-13a6a248978b	GET	undefined	/index
+2024/02/10	14:12:31	aacdea83-f00d-4336-a569-a59cf7e8c402	GET	undefined	/css/style.css
+2024/02/10	14:14:51	329d0410-3b7e-4768-888f-4f8ba3fe55b3	GET	undefined	/index
+2024/02/10	14:14:51	51d3379f-29be-47ed-b67a-2bfe726dd5e2	GET	undefined	/css/style.css
+2024/02/12	18:22:24	d21ff5e7-ee0e-48d4-b4b0-68fb0f562e69	GET	undefined	/
+2024/02/12	18:22:24	c7d15c99-5915-4a77-97f0-da0784bafb12	GET	undefined	/css/style.css
+2024/02/12	18:22:24	06f70092-5d48-4719-9efc-3a70df332fdf	GET	undefined	/favicon.ico
+2024/02/12	19:08:00	ca71dbfa-709c-415f-90a6-2392c5760917	GET	undefined	/
+2024/02/12	19:08:35	e122c782-f2c1-4248-a9c7-dc780adc03ba	GET	undefined	/
+2024/02/12	19:08:35	6dd3a809-0ae5-4531-b624-af62046e2ca9	GET	undefined	/css/style.css
+2024/02/12	19:12:33	bdb9e4c3-7d31-48da-a1f5-fef11314b3bb	GET	undefined	/ammon
+2024/02/12	19:12:33	b4fb9c1c-3211-4e58-9304-3d7352ea44e0	GET	undefined	/css/style.css
