@@ -15,3 +15,14 @@
 2024/02/12	19:55:48	4f8e955e-3453-412f-a7ed-0b64fb185309	ReferenceError: pathh is not defined
 2024/02/12	19:55:48	83eb012f-0b12-4cee-9c19-f8bbac266f1c	ReferenceError: pathh is not defined
 2024/02/12	19:55:53	22b666e8-2141-4e4e-aabf-3f40d02ecc58	ReferenceError: pathh is not defined
+2024/02/15	16:49:38	b0acca5b-bf5a-40a9-ba20-7303bb63199f	TypeError: allowedOrigins.includes is not a function
+2024/02/15	16:51:35	ba055d94-55cc-4d10-90b2-8bc8514d551d	TypeError: allowedOrigins.includes is not a function
+2024/02/15	16:53:10	95972b9c-5b9d-462b-9fb8-c02f20192878	TypeError: allowedOrigins.includes is not a function
+2024/02/15	16:53:23	59f85c3d-8f71-4d46-82d6-a81c308ca3b9	TypeError: Cannot read properties of undefined (reading 'includes')
+2024/02/15	16:54:08	2d75b97f-875e-4ef5-aab2-2bebcbd01529	TypeError: whitelist.indexOf is not a function
+2024/02/15	16:54:30	9a206ccd-8e61-4841-bcc9-976e322dbfb4	TypeError: allowedOrigins.includes is not a function
+2024/02/15	16:57:34	b9e86c8c-50f9-4ce3-b1d9-b31d501a4eda	TypeError: authHeader?.startwith is not a function
+2024/02/15	16:58:06	41619dfb-9b62-4a58-b82f-b7eb18d6997f	TypeError: authHeader?.startswith is not a function
+2024/02/15	16:58:46	463c67ba-2056-47c0-bf65-3ef9939ef9c3	TypeError: Cannot read properties of undefined (reading 'username')
+2024/02/15	17:01:54	9d3db18c-1572-4f48-bb37-e530849f3dea	ReferenceError: val is not defined
+2024/02/15	17:01:58	f9408f7f-f048-49df-89b1-d9212ff12c7b	ReferenceError: val is not defined
